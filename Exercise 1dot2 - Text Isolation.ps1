@@ -10,6 +10,6 @@
 return $MiddleWord
 }
 
-Get-MiddleWord 
+Get-MiddleWord -ThreeWordSentence 'Chelsea Football Club'
 
 #$threewordsentence = "Three Big Idiots"
